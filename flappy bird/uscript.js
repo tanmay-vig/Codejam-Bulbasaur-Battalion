@@ -1,3 +1,4 @@
+alert("Rules : \nClick to move bird up");
 var block = document.getElementById("block");
 var hole = document.getElementById("hole");
 var character = document.getElementById("character");
