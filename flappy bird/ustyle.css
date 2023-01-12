@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#game{
+    width: 1460px;
+    height: 735px;
+    border: 6px solid black;
+  background-image: url("back.png");
+    margin: auto;
+    overflow: hidden;
+}
+#block{
+    width: 50px;
+    height: 735px;
+    position: relative;
+    left: 1460px;
+    background-image: url("block.png");
+    animation: block 4s infinite linear;
+}
+@keyframes block{
+    0%{left:1460px}
+    100%{left:-50px}
+}
+#hole{
+    width: 50px;
+    height: 200px;
+    background-image: url("back.png");
+    background-color: black;
+    position: relative;
+    left: 400px;
+    top: -500px;
+    animation: block 4s infinite linear;
+}
+#character{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 100px;
+}
+
+#clip {
+  position: absolute;
+  clip: rect(30px, 50px, 500px, 0px);
+  /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
+}
