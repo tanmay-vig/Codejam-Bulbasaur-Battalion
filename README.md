@@ -6,6 +6,6 @@ This is a website made for you to play some of the favourite **Old-School** game
 We have used HTML, CSS and JavaScript to create these games.
 
 ## DEMO
-You can check out the games <a href="https://bafybeigmhbbzkvunllbsaaapxslwstfkskrxgmdiirjfg76nydaxsojsqi.ipfs.sphn.live/" target="_blank">here</a> . 
+You can check out the games <a href="https://bafybeicupllwee5hyu43cgryjxtxlb7zftlipvycgazcavcltmdannoqlu.ipfs.sphn.live/" target="_blank">here</a> . 
 
 ### Enjoy The Games !!!!!!! 
