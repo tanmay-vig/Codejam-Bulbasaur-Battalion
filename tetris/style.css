@@ -25,7 +25,7 @@ body {
     margin: auto;
     max-width: 60rem;
     color: plum;
-    background-image: url(../images/Background.jpeg);
+    background-image: url(../tetris/images/Background.jpeg);
     background-attachment: fixed;
 }
 
