@@ -1,7 +1,8 @@
 # Codejam-Bulbasaur-Battalion
 
 Hello Folks !!! 
-Play the all time favourite retro games like Snake , Tetris and Flappy Bird. 
-HTML , CSS and JAVASCRIPT is used in building these games.
+This is a website made for you to play some of the favourite **Old-School** games like Snake Game, Tetris and Flappy Bird Game. 
 
-EnJoY ThE GaMeS !!!!!!! 
+We have used HTML, CSS and JavaScript to create these games.
+
+### Enjoy The Games !!!!!!! 
